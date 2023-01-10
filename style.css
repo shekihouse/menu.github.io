@@ -1,0 +1,1250 @@
+
+
+body{
+    background-image: url(1.jpg);
+    font-size: 15px;
+    font-family: open, sans-serif;
+    
+}
+
+.em{
+    position: absolute;
+    color: rgb(19, 143, 143);
+    font-weight: 600;
+    font-family: italic;
+    font-size: 8px;
+    text-align: right;
+    margin: 2px;
+    text-shadow: none;
+    
+    
+}
+
+
+
+.sh{
+    text-align: center;
+    font-size: 30px;
+    font-family: italic;
+    color: rgb(32, 65, 175);
+    text-shadow: 2px 3px 5px rgb(15, 73, 121);
+}
+
+
+
+
+.sosial{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.icon{
+    width: 100%;
+    font-size: 20px;
+    line-height: 50px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+
+
+}
+
+
+.tel{
+    color: black;
+    text-decoration: none;
+
+    
+}
+
+.wp{
+    color: #128C7E;
+    text-decoration: none;
+
+}
+
+.ins{
+    color: #C13584;
+    text-decoration: none;
+
+
+}
+
+.gm{
+    color: #F25022;
+    text-decoration: none;
+
+    
+
+}
+
+
+
+
+
+.salatlar{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.salatb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+   
+}
+
+.adqsalat{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+.seher{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.seherb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+.adqseher{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.sorbalar{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.sorbab{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+
+}
+
+.adqsorba{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.istiy{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.istib{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+
+}
+
+.adqisti{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.burgerler{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.burgerb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+.adqburger{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.desertler{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.desertb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqdesert{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pastalar{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+  
+
+}
+
+.pastab{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqpasta{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.donerler{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+ 
+
+}
+
+.donerb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqdoner{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.pizzalar{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+ 
+
+}
+
+.pizzab{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqpizza{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.soyuq{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+
+}
+
+.soyuqb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqsoyuq{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.serin{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+
+}
+
+.serinb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqserin{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.istik{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+ 
+
+}
+
+.istikb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqistik{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.caylar{
+    background-image: url(4.jpg);
+    font-size: 19px;
+    border: 5px solid rgb(27, 27, 27);
+    margin: 10px;   
+    border-radius: 20px;
+    line-height: 2.5;
+    user-select: none;  
+    text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+}
+
+.cayb{
+    color: rgb(243, 141, 46);
+    font-size: 28px;
+    font-family: cabria;
+    user-select: none;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+.adqcay{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    display: flex;
+    margin: 10px;
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+
+    body{
+        background-image: url(1.jpg);
+        font-size: 15px;
+        font-family: open, sans-serif;
+        
+    }
+    
+    .em{
+        position: absolute;
+        color: rgb(19, 143, 143);
+        font-weight: 600;
+        font-family: italic;
+        font-size: 8px;
+        text-align: right;
+        margin: 2px;
+        text-shadow: none;
+        
+        
+    }
+    
+    
+    
+    .sh{
+        text-align: center;
+        font-size: 30px;
+        font-family: italic;
+        color: rgb(32, 65, 175);
+        text-shadow: 2px 3px 5px rgb(15, 73, 121);
+    }
+    
+    
+    
+    
+    .sosial{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    
+    .icon{
+        width: 100%;
+        font-size: 20px;
+        line-height: 50px;
+        font-family: sans-serif;
+        font-weight: 600;
+        text-decoration: none;
+    
+    
+    }
+    
+    
+    .tel{
+        color: black;
+        text-decoration: none;
+    
+        
+    }
+    
+    .wp{
+        color: #128C7E;
+        text-decoration: none;
+    
+    }
+    
+    .ins{
+        color: #C13584;
+        text-decoration: none;
+    
+    
+    }
+    
+    .gm{
+        color: #F25022;
+        text-decoration: none;
+    
+        
+    
+    }
+    
+    
+    
+    
+    
+    .salatlar{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .salatb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+       
+    }
+    
+    .adqsalat{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .seher{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .seherb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    .adqseher{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .sorbalar{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .sorbab{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    
+    }
+    
+    .adqsorba{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .istiy{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .istib{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    
+    }
+    
+    .adqisti{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .burgerler{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .burgerb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    .adqburger{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .desertler{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .desertb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqdesert{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .pastalar{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+      
+    
+    }
+    
+    .pastab{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqpasta{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .donerler{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+     
+    
+    }
+    
+    .donerb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqdoner{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .pizzalar{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+     
+    
+    }
+    
+    .pizzab{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqpizza{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .soyuq{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    
+    }
+    
+    .soyuqb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqsoyuq{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .serin{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+    
+    }
+    
+    .serinb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqserin{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .istik{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+     
+    
+    }
+    
+    .istikb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqistik{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .caylar{
+        background-image: url(4.jpg);
+        font-size: 19px;
+        border: 5px solid rgb(27, 27, 27);
+        margin: 10px;   
+        border-radius: 20px;
+        line-height: 2.5;
+        user-select: none;  
+        text-shadow: 3px 3px 3px rgb(62, 105, 247);
+        
+    }
+    
+    .cayb{
+        color: rgb(243, 141, 46);
+        font-size: 28px;
+        font-family: cabria;
+        user-select: none;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+    }
+    
+    
+    .adqcay{
+        color: rgb(255, 255, 255);
+        font-family: 'Times New Roman';
+        display: flex;
+        margin: 10px;
+    }
+    
+    
+}
+
+
+
+
+
+
